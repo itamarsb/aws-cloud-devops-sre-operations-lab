@@ -75,3 +75,17 @@ aws-cloud-devops-sre-operations-lab/
 └── .vscode/
 ```
 
+---
+
+## 📈 Repository Metrics
+
+<p align="center">
+  <a href="http://s01.flagcounter.com/more/058">
+    <img
+      src="https://s01.flagcounter.com/count/058/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_120/viewers_0/labels_1/pageviews_1/flags_0/percent_0/"
+      alt="Flag Counter"
+      width="900"
+    />
+  </a>
+</p>
+

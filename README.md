@@ -157,6 +157,61 @@ aws-cloud-devops-sre-operations-lab/
 
 ---
 
+## Technology Stack
+
+### Cloud
+
+- Amazon Web Services
+- Amazon EC2
+- Amazon VPC
+- IAM
+- Amazon CloudWatch
+- Elastic Load Balancing
+- Amazon ECR
+- Amazon EKS
+
+### Infrastructure as Code
+
+- Terraform
+
+### Containers
+
+- Docker
+- Kubernetes
+
+### CI/CD
+
+- Git
+- GitHub
+- GitHub Actions
+
+### Automation
+
+- Bash
+- Python
+
+### Monitoring
+
+- Amazon CloudWatch
+- Zabbix
+
+### Observability
+
+- Datadog
+
+### Operations
+
+- Linux
+- Troubleshooting
+- Incident Management
+- Root Cause Analysis
+- Runbooks
+- SLI / SLO
+- FinOps
+
+
+---
+
 ## 📈 Repository Metrics
 
 <p align="center">

@@ -1,7 +1,5 @@
 
----
-
-# 7. CONTRIBUTING.md
+CONTRIBUTING.md
 
 ```markdown
 # Contributing
@@ -33,3 +31,4 @@ monitoring: add Zabbix host template
 observability: add Datadog dashboard configuration
 incident: document INC-001 application outage
 finops: add EC2 rightsizing analysis
+```

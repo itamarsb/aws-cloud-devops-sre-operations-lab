@@ -81,6 +81,7 @@ flowchart TD
 ```
 ---
 
+## Repository Structure
 
 ```markdown
 aws-cloud-devops-sre-operations-lab/

@@ -1,7 +1,5 @@
 
-CONTRIBUTING.md
 
-```markdown
 # Contributing
 
 This repository is primarily an engineering laboratory and professional portfolio project.

@@ -1,9 +1,7 @@
 
----
-
 # 5. ROADMAP.md
 
-```markdown
+
 # Project Roadmap
 
 This roadmap defines the progressive evolution of the AWS Cloud, DevOps & SRE Operations Lab.

@@ -80,21 +80,6 @@ flowchart TD
 
 ```
 
-```markdown
-
-docs/           Technical documentation
-scripts/        Bash and Python automation
-terraform/      Infrastructure as Code
-docker/         Container-related resources
-kubernetes/     Kubernetes manifests and Helm resources
-apps/           Example workloads
-.github/        GitHub Actions workflows
-images/         Architecture diagrams and screenshots
-.vscode/        VS Code workspace configuration
-
-```
-
-
 ---
 
 ## Repository Structure
@@ -171,6 +156,24 @@ aws-cloud-devops-sre-operations-lab/
 │
 └── .vscode/
 ```
+
+
+```markdown
+
+docs/           Technical documentation
+scripts/        Bash and Python automation
+terraform/      Infrastructure as Code
+docker/         Container-related resources
+kubernetes/     Kubernetes manifests and Helm resources
+apps/           Example workloads
+.github/        GitHub Actions workflows
+images/         Architecture diagrams and screenshots
+.vscode/        VS Code workspace configuration
+
+```
+
+
+
 ---
 
 ## Laboratory Roadmap

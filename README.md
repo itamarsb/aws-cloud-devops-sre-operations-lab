@@ -160,7 +160,7 @@ aws-cloud-devops-sre-operations-lab/
 ## Laboratory Roadmap
 
 | Stage | Topic                               | Status      |
-| ----- | ----------------------------------- | ----------- |
+| :-----: | ----------------------------------- | ----------- |
 | 00    | Workstation & Repository            | In Progress |
 | 01    | AWS Foundation                      | Planned     |
 | 02    | Terraform Foundation                | Planned     |

@@ -378,16 +378,9 @@ aws sts get-caller-identity
 
 confirms that the workstation can authenticate with AWS.
 
-## Evidence
 
-```text
-images/
-└── step-05-aws-authentication.png
-```
+![LAB00_DevOps](images/LAB00_DevOps_Clipboard_08-15-2026_05.jpg)
 
-### Screenshot
-
-![AWS Authentication](images/step-05-aws-authentication.png)
 
 ---
 

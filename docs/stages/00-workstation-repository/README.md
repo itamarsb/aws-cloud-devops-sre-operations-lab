@@ -216,7 +216,7 @@ Successful validation confirms that:
 * User identity is configured
 
 
-![LAB00DevOps](docs/stages/00-workstation-repository/images/LAB00_DevOps_Clipboard_08-15-2026_01.jpg)
+![LAB00DevOps](stages/00-workstation-repository/images/LAB00_DevOps_Clipboard_08-15-2026_01.jpg)
 
 
 ---

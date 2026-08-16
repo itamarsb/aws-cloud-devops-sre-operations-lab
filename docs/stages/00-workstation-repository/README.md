@@ -437,6 +437,12 @@ Check the Docker runtime:
 docker info
 ```
 
+
+![LAB00_DevOps](images/LAB00_DevOps_Clipboard_08-15-2026_08.jpg)
+
+![LAB00_DevOps](images/LAB00_DevOps_Clipboard_08-15-2026_09.jpg)
+
+
 Then perform a functional container test:
 
 ```bash

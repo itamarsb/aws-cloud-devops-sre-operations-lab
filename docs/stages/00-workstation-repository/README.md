@@ -487,6 +487,10 @@ Additional client information can be obtained with:
 kubectl version --client --output=yaml
 ```
 
+
+![LAB00_DevOps](images/LAB00_DevOps_Clipboard_08-15-2026_11.jpg)
+
+
 > [!NOTE]
 > A Kubernetes cluster is not required for the basic client validation performed in this stage.
 

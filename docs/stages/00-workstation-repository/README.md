@@ -597,16 +597,9 @@ On Windows, Bash may be provided through environments such as:
 
 The exact environment used by later labs should be documented whenever shell behavior may differ.
 
-## Evidence
 
-```text
-images/
-└── step-10-bash-validation.png
-```
+![LAB00_DevOps](images/LAB00_DevOps_Clipboard_08-15-2026_15.jpg)
 
-### Screenshot
-
-![Bash Validation](images/step-10-bash-validation.png)
 
 ---
 

@@ -455,12 +455,6 @@ The command should download the test image if necessary, create a container, exe
 ![LAB00_DevOps](images/LAB00_DevOps_Clipboard_08-15-2026_10.jpg)
 
 
-Check running containers:
-
-```bash
-docker ps
-```
-
 ## Validation
 
 This test validates more than the Docker CLI.
@@ -476,17 +470,6 @@ Docker Engine
      ▼
 Container
 ```
-
-## Evidence
-
-```text
-images/
-└── step-07-docker-validation.png
-```
-
-### Screenshot
-
-![Docker Validation](images/step-07-docker-validation.png)
 
 ---
 

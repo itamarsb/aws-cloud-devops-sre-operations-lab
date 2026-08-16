@@ -640,16 +640,9 @@ Useful extensions for later stages may include support for:
 
 Extensions should be installed according to the requirements of each stage rather than adding unnecessary dependencies to the workstation.
 
-## Evidence
 
-```text
-images/
-└── step-11-vscode-validation.png
-```
+![LAB00_DevOps](images/LAB00_DevOps_Clipboard_08-15-2026_17.jpg)
 
-### Screenshot
-
-![Visual Studio Code Validation](images/step-11-vscode-validation.png)
 
 ---
 

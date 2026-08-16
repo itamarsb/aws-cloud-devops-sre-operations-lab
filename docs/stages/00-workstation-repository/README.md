@@ -428,6 +428,9 @@ Validate the Docker CLI:
 docker --version
 ```
 
+![LAB00_DevOps](images/LAB00_DevOps_Clipboard_08-15-2026_07.jpg)
+
+
 Check the Docker runtime:
 
 ```bash

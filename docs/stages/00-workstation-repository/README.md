@@ -578,7 +578,7 @@ bash --version
 Run a simple shell command:
 
 ```bash
-bash -c 'echo "Bash environment validated successfully"'
+bash -c "echo 'Bash environment validated successfully'"
 ```
 
 Expected result:

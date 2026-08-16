@@ -560,16 +560,9 @@ Expected result:
 Python environment validated successfully
 ```
 
-## Evidence
 
-```text
-images/
-└── step-09-python-validation.png
-```
+![LAB00_DevOps](images/LAB00_DevOps_Clipboard_08-15-2026_14.jpg)
 
-### Screenshot
-
-![Python Validation](images/step-09-python-validation.png)
 
 ---
 

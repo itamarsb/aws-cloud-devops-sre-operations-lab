@@ -283,16 +283,9 @@ Do **not** expose authentication tokens in screenshots.
 
 Review the terminal output carefully before publishing evidence.
 
-## Evidence
 
-```text
-images/
-└── step-03-github-authentication.png
-```
+![LAB00_DevOps](images/LAB00_DevOps_Clipboard_08-15-2026_03.jpg)
 
-### Screenshot
-
-![GitHub Authentication](images/step-03-github-authentication.png)
 
 ---
 

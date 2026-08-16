@@ -504,6 +504,10 @@ may fail.
 
 That does not necessarily indicate a problem with the `kubectl` installation.
 
+
+![LAB00_DevOps](images/LAB00_DevOps_Clipboard_08-15-2026_12.jpg)
+
+
 ## Validation
 
 The primary Stage 00 requirement is successful execution of:

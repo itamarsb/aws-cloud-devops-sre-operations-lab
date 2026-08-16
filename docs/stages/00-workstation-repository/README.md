@@ -414,16 +414,9 @@ Confirm that:
 * The executable is available through the terminal
 * Terraform can initialize normally when used in later stages
 
-## Evidence
 
-```text
-images/
-└── step-06-terraform-validation.png
-```
+![LAB00_DevOps](images/LAB00_DevOps_Clipboard_08-15-2026_06.jpg)
 
-### Screenshot
-
-![Terraform Validation](images/step-06-terraform-validation.png)
 
 ---
 

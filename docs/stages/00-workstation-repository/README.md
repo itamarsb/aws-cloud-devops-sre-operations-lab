@@ -309,16 +309,9 @@ aws-cli/2.x.x
 
 This confirms that the AWS CLI executable is available from the terminal.
 
-## Evidence
 
-```text
-images/
-└── step-04-aws-cli-validation.png
-```
+![LAB00_DevOps](images/LAB00_DevOps_Clipboard_08-15-2026_04.jpg)
 
-### Screenshot
-
-![AWS CLI Validation](images/step-04-aws-cli-validation.png)
 
 ---
 

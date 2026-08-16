@@ -241,16 +241,9 @@ gh version 2.x.x
 
 Confirm that the `gh` command is available.
 
-## Evidence
 
-```text
-images/
-└── step-02-github-cli-validation.png
-```
+![LAB00_DevOps](images/LAB00_DevOps_Clipboard_08-15-2026_02.jpg)
 
-### Screenshot
-
-![GitHub CLI Validation](images/step-02-github-cli-validation.png)
 
 ---
 

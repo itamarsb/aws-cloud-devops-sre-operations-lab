@@ -564,6 +564,7 @@ Python environment validated successfully
 ![LAB00_DevOps](images/LAB00_DevOps_Clipboard_08-15-2026_14.jpg)
 
 
+
 ---
 
 # Step 10 — Bash Validation

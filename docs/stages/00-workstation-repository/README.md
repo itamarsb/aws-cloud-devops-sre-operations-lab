@@ -617,6 +617,10 @@ Then open the current repository:
 code .
 ```
 
+
+![LAB00_DevOps](images/LAB00_DevOps_Clipboard_08-15-2026_16.jpg)
+
+
 Verify that:
 
 * The repository opens correctly

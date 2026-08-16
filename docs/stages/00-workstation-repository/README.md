@@ -451,6 +451,10 @@ docker run --rm hello-world
 
 The command should download the test image if necessary, create a container, execute it, display the Docker confirmation message, and remove the container automatically.
 
+
+![LAB00_DevOps](images/LAB00_DevOps_Clipboard_08-15-2026_10.jpg)
+
+
 Check running containers:
 
 ```bash

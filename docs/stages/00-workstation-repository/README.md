@@ -516,16 +516,9 @@ The primary Stage 00 requirement is successful execution of:
 kubectl version --client
 ```
 
-## Evidence
 
-```text
-images/
-└── step-08-kubectl-validation.png
-```
+![LAB00_DevOps](images/LAB00_DevOps_Clipboard_08-15-2026_13.jpg)
 
-### Screenshot
-
-![kubectl Validation](images/step-08-kubectl-validation.png)
 
 ---
 

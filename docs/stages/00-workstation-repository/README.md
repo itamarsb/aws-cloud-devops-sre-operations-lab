@@ -215,18 +215,9 @@ Successful validation confirms that:
 * Git is available through the terminal
 * User identity is configured
 
-## Evidence
 
-Add a screenshot showing the successful Git validation.
+![LAB00DevOps](docs/stages/00-workstation-repository/images/LAB00_DevOps_Clipboard_08-15-2026_01.jpg)
 
-```text
-images/
-└── step-01-git-validation.png
-```
-
-### Screenshot
-
-![Git Validation](images/step-01-git-validation.png)
 
 ---
 

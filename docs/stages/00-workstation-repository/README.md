@@ -713,16 +713,9 @@ Confirm that:
 * The correct GitHub remote is configured
 * The repository structure is accessible
 
-## Evidence
 
-```text
-images/
-└── step-12-repository-validation.png
-```
+![LAB00_DevOps](images/LAB00_DevOps_Clipboard_08-15-2026_18.jpg)
 
-### Screenshot
-
-![Repository Validation](images/step-12-repository-validation.png)
 
 ---
 

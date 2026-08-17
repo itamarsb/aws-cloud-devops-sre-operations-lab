@@ -2,7 +2,9 @@
 
 > Establishing a secure and cost-aware AWS account foundation before deploying cloud infrastructure.
 
+
 ---
+
 
 ## Scope
 
@@ -24,13 +26,27 @@ AWS recommends using temporary credentials and roles for human access, avoiding 
 The budget will be configured with alerts for both actual and forecasted costs. AWS Budgets monitors and notifies but does not automatically prevent new charges.
 
 
+---
+
 ## Table of Contents
+
+
+---
 
 ## Overview
 
+
+---
+
 ## Business and Operational Scenario
 
+
+---
+
 ## Objectives
+
+
+---
 
 ## Architecture
 
@@ -54,7 +70,12 @@ flowchart LR
 
 ```
 
+---
+
 ## AWS Services and Technologies
+
+
+---
 
 ## Skills Demonstrated
 
@@ -70,11 +91,22 @@ flowchart LR
 - Security-conscious evidence handling
 
 
+---
+
 ## Prerequisites
+
+
+---
 
 ## Estimated Cost
 
+
+---
+
 ## Security Considerations
+
+
+---
 
 ## Repository Structure
 
@@ -91,46 +123,111 @@ docs/stages/01-aws-foundation/
 
 ```
 
+---
+
 ## Step 1 — Validate the AWS CLI Session
+
+
+---
 
 ## Step 2 — Identify the Active AWS Principal
 
+
+---
+
 ## Step 3 — Review the AWS CLI Authentication Method
+
+
+---
 
 ## Step 4 — Audit the AWS Account Summary
 
+
+---
+
 ## Step 5 — Verify Root User Protection
+
+
+---
 
 ## Step 6 — Review AWS Account Contacts
 
+
+---
+
 ## Step 7 — Review IAM Users, Groups and Roles
+
+
+---
 
 ## Step 8 — Generate the IAM Credential Report
 
+
+---
+
 ## Step 9 — Review IAM Access Keys and MFA Coverage
+
+
+---
 
 ## Step 10 — Configure AWS Free Tier Alerts
 
+
+---
+
 ## Step 11 — Create a Monthly AWS Cost Budget
+
+
+---
 
 ## Step 12 — Validate the Security and Cost Baseline
 
+
+---
+
 ## Validation Checklist
+
+
+---
 
 ## Evidence Checklist
 
+
+---
+
 ## Troubleshooting
+
+
+---
 
 ## Cleanup
 
+
+---
+
 ## Security Best Practices
+
+
+---
 
 ## Operational and Production Relevance
 
+
+---
+
 ## Key Learnings
+
+
+---
 
 ## Portfolio Outcomes
 
+
+---
+
 ## Next Lab
+
+
+---
 
 ## References

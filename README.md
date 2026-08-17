@@ -178,21 +178,21 @@ images/         Architecture diagrams and screenshots
 
 ## Laboratory Roadmap
 
-| Stage | Topic                               | Status      |
-| :-----: | ----------------------------------- | ----------- |
-| 00    | Workstation & Repository            | In Progress |
-| 01    | AWS Foundation                      | Planned     |
-| 02    | Terraform Foundation                | Planned     |
-| 03    | Linux Operations                    | Planned     |
-| 04    | Python Workload                     | Planned     |
-| 05    | Docker                              | Planned     |
-| 06    | Kubernetes                          | Planned     |
-| 07    | CI/CD with GitHub Actions           | Planned     |
-| 08    | Monitoring with Zabbix & CloudWatch | Planned     |
-| 09    | Observability with Datadog          | Planned     |
-| 10    | SRE Operations                      | Planned     |
-| 11    | FinOps & Security                   | Planned     |
-| 12    | Production Incident Labs            | Planned     |
+| Stage   | Topic                               | Status        |
+| :-----: | ----------------------------------- | :-----------: |
+| 00      | Workstation & Repository            | Completed     |
+| 01      | AWS Foundation                      | In Progress   |
+| 02      | Terraform Foundation                | Planned       |
+| 03      | Linux Operations                    | Planned       |
+| 04      | Python Workload                     | Planned       |
+| 05      | Docker                              | Planned       |
+| 06      | Kubernetes                          | Planned       |
+| 07      | CI/CD with GitHub Actions           | Planned       |
+| 08      | Monitoring with Zabbix & CloudWatch | Planned       |
+| 09      | Observability with Datadog          | Planned       |
+| 10      | SRE Operations                      | Planned       |
+| 11      | FinOps & Security                   | Planned       |
+| 12      | Production Incident Labs            | Planned       |
 
 
 ---

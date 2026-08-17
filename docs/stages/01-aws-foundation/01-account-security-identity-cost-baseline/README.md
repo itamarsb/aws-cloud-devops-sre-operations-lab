@@ -32,6 +32,26 @@ The budget will be configured with alerts for both actual and forecasted costs. 
 
 ## Architecture
 
+```mermaid
+
+flowchart LR
+    ENG["Cloud Engineer"] --> CLI["AWS CLI"]
+    CLI --> AUTH["Temporary Credentials"]
+    AUTH --> IAM["AWS IAM"]
+    IAM --> ACCOUNT["AWS Account"]
+
+    ACCOUNT --> ROOT["Root Protection"]
+    ACCOUNT --> CONTACTS["Account Contacts"]
+    ACCOUNT --> BUDGET["AWS Budgets"]
+    ACCOUNT --> ALERTS["Free Tier Alerts"]
+
+    IAM --> USERS["Users"]
+    IAM --> ROLES["Roles"]
+    IAM --> POLICIES["Policies"]
+    IAM --> REPORT["Credential Report"]
+
+```
+
 ## AWS Services and Technologies
 
 ## Skills Demonstrated

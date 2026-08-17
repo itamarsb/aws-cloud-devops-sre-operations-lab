@@ -1090,35 +1090,9 @@ Potential causes include:
 
 Avoid destructive Git commands unless the repository state is fully understood.
 
----
-
-# Evidence Checklist
-
-The completed Stage 00 should contain the following evidence:
-
-```text
-stage-00-workstation-repository/
-│
-├── README.md
-│
-└── images/
-    ├── step-01-git-validation.png
-    ├── step-02-github-cli-validation.png
-    ├── step-03-github-authentication.png
-    ├── step-04-aws-cli-validation.png
-    ├── step-05-aws-authentication.png
-    ├── step-06-terraform-validation.png
-    ├── step-07-docker-validation.png
-    ├── step-08-kubectl-validation.png
-    ├── step-09-python-validation.png
-    ├── step-10-bash-validation.png
-    ├── step-11-vscode-validation.png
-    ├── step-12-repository-validation.png
-    └── step-13-git-workflow-validation.png
-```
-
 
 ---
+
 
 # Key Learnings
 

@@ -786,16 +786,9 @@ Expected result:
 nothing to commit, working tree clean
 ```
 
-## Evidence
 
-```text
-images/
-└── step-13-git-workflow-validation.png
-```
+![LAB00_DevOps](images/LAB00_DevOps_Clipboard_08-15-2026_19.jpg)
 
-### Screenshot
-
-![Git Workflow Validation](images/step-13-git-workflow-validation.png)
 
 ---
 

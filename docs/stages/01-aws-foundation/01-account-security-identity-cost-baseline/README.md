@@ -64,6 +64,19 @@ flowchart LR
 
 ## Repository Structure
 
+```markdown
+
+docs/stages/01-aws-foundation/
+└── 01-account-security-identity-cost-baseline/
+    ├── README.md
+    ├── images/
+    │   └── .gitkeep
+    └── scripts/
+        ├── account-baseline-audit.ps1
+        └── account-baseline-audit.sh
+
+```
+
 ## Step 1 — Validate the AWS CLI Session
 
 ## Step 2 — Identify the Active AWS Principal

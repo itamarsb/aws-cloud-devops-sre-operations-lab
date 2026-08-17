@@ -2,6 +2,8 @@
 
 > Establishing a secure and cost-aware AWS account foundation before deploying cloud infrastructure.
 
+---
+
 ## Scope
 
 - Validate current AWS identity using STS;
@@ -55,6 +57,18 @@ flowchart LR
 ## AWS Services and Technologies
 
 ## Skills Demonstrated
+
+
+- AWS account security assessment
+- AWS IAM identity inventory
+- Temporary credential validation
+- Root user security verification
+- IAM credential auditing
+- AWS cost monitoring
+- AWS Budgets configuration
+- Cloud operations documentation
+- Security-conscious evidence handling
+
 
 ## Prerequisites
 

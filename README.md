@@ -1,6 +1,9 @@
 
 # AWS Cloud, DevOps & SRE Operations Lab
 
+> **Kubernetes specialization (planning):** This repository owns Kubernetes platform operations, Helm, Kustomize, GitOps, incident recovery and Amazon EKS. See the [local-Kubernetes-to-EKS learning track](docs/kubernetes-platform-roadmap.md). Docker/Compose/ECR/ECS image-delivery labs belong to the [companion container repository](https://github.com/itamarsb/aws-cloud-engineering-lab). Existing stage status remains unchanged; planned exercises are not completed work.
+
+
 A hands-on engineering laboratory focused on Cloud, DevOps, Site Reliability Engineering, Monitoring, Observability, Infrastructure Automation, Incident Management and FinOps using AWS and modern infrastructure tooling.
 
 This repository is designed as an end-to-end operational environment where infrastructure is built, deployed, monitored, intentionally broken, investigated and improved.
